@@ -1,0 +1,15 @@
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.components.AddEmployee.resources
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\SRIV395980\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.components.EditEmployee.resources
