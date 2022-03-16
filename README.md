@@ -7,6 +7,7 @@ Employee management system
 * Add new employee
 * Update employee details
 * Delete an employee
+* Export to CSV file.
 # Stucture of solution
 * **component -** contain window forms
 * **service -** implemented to call service and load data into model.
